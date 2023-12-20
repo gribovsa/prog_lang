@@ -1,1 +1,14 @@
-﻿Console.WriteLine("Hallo world");
+﻿// Console.WriteLine("Hallo world");
+
+
+int value = 100;
+Console.WriteLine(value);
+
+
+double d = 5.59;
+char c = '!';
+bool b = true;
+Console.WriteLine(d);
+Console.WriteLine(c);
+Console.WriteLine(b);
+
