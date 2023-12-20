@@ -1,0 +1,15 @@
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\bin\Debug\net6.0\Task3.exe
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\bin\Debug\net6.0\Task3.deps.json
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\bin\Debug\net6.0\Task3.dll
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\bin\Debug\net6.0\Task3.pdb
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\obj\Debug\net6.0\Task3.dll
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\obj\Debug\net6.0\refint\Task3.dll
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\obj\Debug\net6.0\Task3.pdb
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+E:\Грибов\GeekBrains\02_Prog_lang\lesson1\Task3\obj\Debug\net6.0\ref\Task3.dll
